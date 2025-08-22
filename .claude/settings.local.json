@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install:*)",
+      "Bash(C:\\Python313\\python.exe:*)",
+      "Bash(\"C:\\Python313\\python.exe\" --version)",
+      "Bash(\"C:\\Python313\\python.exe\" -m pip install Flask==2.3.3)",
+      "Bash(\"C:\\Python313\\python.exe\" app.py)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
